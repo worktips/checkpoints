@@ -3,5 +3,5 @@
 
 **How to use**
 
-- Get the checkpoints.csv file and add it to the folder where your Worktipsd is located
+- Get the [checkpoints.csv](https://raw.githubusercontent.com/worktips/checkpoints/master/checkpoints.csv) file and add it to the folder where your Worktipsd is located
 - Start your Worktipsd with the `--load-checkpoints checkpoints.csv` flag
